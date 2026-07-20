@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MauroAlexisFernandez
-- 👀 I’m interested in Data Science, BI and Information Management
-- 🌱 I’m currently learning Data Science and Data Analysis
-- 💞️ I’m looking to collaborate on projects related to Data
-- 📫 How to reach me imaf1991@outlook.com
+I am a professional in Data Science and Artificial Intelligence with a focus on the development and deployment of Machine
+Learning and data solutions in production environments. Experience with end-to-end pipelines, Deep Learning, NLP, and
+Generative AI (LLMs, RAG). Oriented toward building scalable systems, from data processing to model deployment and
+monitoring.
 - ⚡ Fun fact: I love boxing and martial arts
 
 <!---
